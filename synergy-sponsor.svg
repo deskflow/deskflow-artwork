@@ -39,15 +39,19 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#505050"
      showgrid="false"
-     inkscape:zoom="7.1616381"
-     inkscape:cx="22.341257"
-     inkscape:cy="-2.5133915"
+     inkscape:zoom="9.4630896"
+     inkscape:cx="44.8585"
+     inkscape:cy="-3.6985806"
      inkscape:window-width="1920"
      inkscape:window-height="1011"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg37" />
+     inkscape:current-layer="g25">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3172" />
+  </sodipodi:namedview>
   <title
      id="title9">coverage: 80%</title>
   <linearGradient
@@ -58,7 +62,8 @@
        offset="0"
        stop-color="#bbb"
        stop-opacity=".1"
-       id="stop11" />
+       id="stop11"
+       style="stop-color:#262626;stop-opacity:0.35581517;" />
     <stop
        offset="1"
        stop-opacity=".1"
@@ -75,15 +80,27 @@
   </clipPath>
   <g
      clip-path="url(#r)"
-     id="g25">
+     id="g25"
+     inkscape:label="badge">
     <rect
-       width="39.136204"
+       width="40.071503"
        height="20"
        fill="#555555"
        id="rect19"
        x="0"
        y="0"
-       style="stroke-width:0.800985" />
+       style="display:inline;stroke-width:0.8105"
+       inkscape:label="left" />
+    <rect
+       width="55.940426"
+       height="20"
+       fill="#555555"
+       id="rect3842"
+       x="-95.983643"
+       y="-20.020557"
+       style="display:inline;fill:#4a4a4a;fill-opacity:1;stroke-width:0.957631"
+       transform="scale(-1)"
+       inkscape:label="right" />
     <rect
        width="96"
        height="20"
@@ -91,7 +108,8 @@
        id="rect23"
        x="0"
        y="0"
-       style="display:inline" />
+       style="display:inline"
+       inkscape:label="shadow" />
   </g>
   <g
      fill="#ffffff"
