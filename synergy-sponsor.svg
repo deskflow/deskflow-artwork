@@ -1,22 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   width="96"
+   width="166"
    height="20"
    role="img"
-   aria-label="coverage: 80%"
+   aria-label="sponsored by: Synergy"
    version="1.1"
-   id="svg37"
+   id="svg1058"
    sodipodi:docname="synergy-sponsor.svg"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:dc="http://purl.org/dc/elements/1.1/">
+   xmlns:svg="http://www.w3.org/2000/svg">
   <defs
-     id="defs41">
+     id="defs1062">
     <clipPath
        id="clip0">
       <rect
@@ -30,30 +27,26 @@
     </clipPath>
   </defs>
   <sodipodi:namedview
-     id="namedview39"
-     pagecolor="#505050"
-     bordercolor="#eeeeee"
-     borderopacity="1"
-     inkscape:showpageshadow="0"
-     inkscape:pageopacity="0"
+     id="namedview1060"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#505050"
+     inkscape:deskcolor="#d1d1d1"
      showgrid="false"
-     inkscape:zoom="9.4630896"
-     inkscape:cx="54.369135"
-     inkscape:cy="-0.42269493"
+     inkscape:zoom="4"
+     inkscape:cx="27.625"
+     inkscape:cy="18.75"
      inkscape:window-width="1920"
      inkscape:window-height="1011"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg37">
-    <inkscape:grid
-       type="xygrid"
-       id="grid3172" />
-  </sodipodi:namedview>
+     inkscape:current-layer="svg1058" />
   <title
-     id="title9">coverage: 80%</title>
+     id="title1030">sponsored by: Synergy</title>
   <linearGradient
      id="s"
      x2="0"
@@ -62,53 +55,44 @@
        offset="0"
        stop-color="#bbb"
        stop-opacity=".1"
-       id="stop11"
-       style="stop-color:#646464;stop-opacity:0.47386152;" />
+       id="stop1032" />
     <stop
        offset="1"
        stop-opacity=".1"
-       id="stop13" />
+       id="stop1034" />
   </linearGradient>
   <clipPath
      id="r">
     <rect
-       width="96"
+       width="166"
        height="20"
        rx="3"
        fill="#fff"
-       id="rect16" />
+       id="rect1037" />
   </clipPath>
   <g
      clip-path="url(#r)"
-     id="g25"
+     id="g1046"
      inkscape:label="badge">
     <rect
-       width="48.922092"
+       width="85"
        height="20"
-       fill="#555555"
-       id="rect19"
-       x="0"
-       y="0"
-       style="display:inline;stroke-width:0.895546"
+       fill="#555"
+       id="rect1040"
        inkscape:label="left" />
     <rect
-       width="47.100571"
+       x="85"
+       width="81"
        height="20"
-       fill="#555555"
-       id="rect3842"
-       x="-95.983643"
-       y="-20.020557"
-       style="display:inline;fill:#4a4a4a;fill-opacity:1;stroke-width:0.878716"
-       transform="scale(-1)"
+       fill="#007ec6"
+       id="rect1042"
+       style="fill:#383838;fill-opacity:1"
        inkscape:label="right" />
     <rect
-       width="96"
+       width="166"
        height="20"
        fill="url(#s)"
-       id="rect23"
-       x="0"
-       y="0"
-       style="display:inline"
+       id="rect1044"
        inkscape:label="shadow" />
   </g>
   <g
@@ -118,8 +102,8 @@
      text-rendering="geometricPrecision"
      font-size="110px"
      id="g35"
-     inkscape:label="logo"
-     transform="matrix(0.72146707,0,0,0.72146707,54.125704,1.0888182)">
+     inkscape:label="synergy"
+     transform="matrix(1.2703931,0,0,1.2703931,92.825903,-6.1559332)">
     <path
        d="m 21.351047,10.627581 c 0.121192,-0.04167 0.191873,-0.177042 0.161696,-0.302026 -0.232377,-0.7706854 -0.91902,-1.6559308 -2.453841,-1.6559308 -1.332942,0 -2.433507,1.0206372 -2.433507,2.2599828 0,1.103954 0.726986,1.843398 1.817546,2.072516 l 1.009712,0.218709 c 0.615962,0.135392 0.959363,0.520736 0.959363,0.999804 0,0.57281 -0.44426,1.020637 -1.302604,1.020637 -0.918859,0 -1.443967,-0.562386 -1.595497,-1.228921 -0.01,-0.06249 -0.05051,-0.114559 -0.111024,-0.145801 -0.06068,-0.03126 -0.121191,-0.04167 -0.181868,-0.03126 -0.212044,0.0625 -0.49477,0.145817 -0.676476,0.197892 -0.121175,0.04165 -0.191857,0.15621 -0.171669,0.270768 0.191841,1.010228 1.040018,2.062107 2.736534,2.062107 1.63584,0 2.534527,-1.093529 2.534527,-2.239149 0,-1.04147 -0.676476,-1.864232 -1.938737,-2.124592 l -1.030045,-0.218709 c -0.555286,-0.124983 -0.838011,-0.479068 -0.838011,-0.947728 0,-0.562402 0.504775,-1.0623039 1.231923,-1.0623039 0.807834,0 1.201584,0.4790689 1.342947,0.9060779 0.04035,0.124968 0.181707,0.187467 0.302898,0.145801 0.191872,-0.05208 0.454427,-0.145801 0.636133,-0.197876 z"
        fill="#ffffff"
@@ -197,21 +181,13 @@
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1"
-     x="3.0672655"
-     y="12.445496"
-     id="text334"><tspan
+     x="8.6232815"
+     y="13.659569"
+     id="text334"
+     inkscape:label="label"><tspan
        sodipodi:role="line"
        id="tspan332"
-       x="3.0672655"
-       y="12.445496"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.66667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1">Sponsored by</tspan></text>
-  <metadata
-     id="metadata3028">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:title>coverage: 80%</dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
+       x="8.6232815"
+       y="13.659569"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1">sponsored by</tspan></text>
 </svg>
