@@ -36,9 +36,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
-     inkscape:zoom="4"
-     inkscape:cx="27.625"
-     inkscape:cy="18.75"
+     inkscape:zoom="1"
+     inkscape:cx="-77.5"
+     inkscape:cy="-48"
      inkscape:window-width="1920"
      inkscape:window-height="1011"
      inkscape:window-x="0"
@@ -180,14 +180,26 @@
   </g>
   <text
      xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#010101;fill-opacity:0.301961"
+     x="8.5370293"
+     y="14.529922"
+     id="text334-9"
+     inkscape:label="shadow"><tspan
+       sodipodi:role="line"
+       id="tspan332-7"
+       x="8.5370293"
+       y="14.529922"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#010101;fill-opacity:0.301961">sponsored by</tspan></text>
+  <text
+     xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1"
-     x="8.6232815"
-     y="13.659569"
+     x="8.5307522"
+     y="13.783592"
      id="text334"
      inkscape:label="label"><tspan
        sodipodi:role="line"
        id="tspan332"
-       x="8.6232815"
-       y="13.659569"
+       x="8.5307522"
+       y="13.783592"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1">sponsored by</tspan></text>
 </svg>
